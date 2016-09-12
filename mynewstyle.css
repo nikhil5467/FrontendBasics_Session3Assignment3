@@ -1,0 +1,149 @@
+#container{
+	
+	border: 1px solid black;
+
+	margin : 0 auto;
+	height: 816px;
+    width: 318px;
+    background-color : cornflowerblue;
+}
+#button1{
+	   margin-left: 105px;
+    margin-top: 27px;
+    border-radius: 54px;
+    padding-left: 9px;
+    padding-right: 11px;
+}
+.div1{
+	border: 1px solid black;
+	
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+.div2{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+.div3{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+.div4{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 76px;
+}
+.div5{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+.div6{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+.div7{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 55px;
+}
+.div8{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+.div9{
+	border: 1px solid black;
+    padding-left: 12px;
+    margin-left: 9px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+.div10{
+	border: 1px solid black;
+    padding-left: 18px;
+    margin-left: 11px;
+    margin-right: 23px;
+    background-color: gray;
+        border-radius: 3px;
+	height : 38px;
+}
+#input1{
+	margin-left : 16px;
+	margin-top : 10px;
+}
+#input2{
+	margin-left : 16px;
+	margin-top : 10px;
+}
+#input3{
+	margin-left : 14px;
+	margin-top : 10px;
+}
+#input4{
+    margin-left: 14px;
+    margin-top: 5px;
+    height: 65px;
+    width: 184px;
+
+}
+#label4{
+    vertical-align: top;
+}
+#input5{
+	margin-left : 8px;
+	margin-top : 10px;
+}
+#input6{
+	margin-left : 14px;
+	margin-top : 10px;
+}
+#input8{
+	
+	margin-top : 6px;
+}
+#input9{
+	margin-left : 93px;
+	margin-top : -13px;
+}
+#input10{
+	
+	margin-top : 6px;
+}
